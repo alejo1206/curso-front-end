@@ -9,3 +9,6 @@ box-sizing se recomienda border-box
 position fixed es fijo, relative es relativo para los hijos y absolute es absoluto segun el padre (siempre busca um reative, si no hay usa la ventana del navegador)
 flukeout.github.io hacer juego
 leer sobre bootstrap: introduccion, grillas, content y components
+
+Clase 3
+bem.info convencion para variables en html y css
