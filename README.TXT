@@ -12,3 +12,8 @@ leer sobre bootstrap: introduccion, grillas, content y components
 
 Clase 3
 bem.info convencion para variables en html y css
+
+Clase 4
+leer: 
+    http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/
+    https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html

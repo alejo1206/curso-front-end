@@ -1,0 +1,13 @@
+Documentación:
+- HTML/CSS/JS: https://www.w3schools.com
+- BEM (CSS): https://en.bem.info/
+- SASS (CSS): http://sass-lang.com/
+- TypeScript: https://www.typescriptlang.org/docs
+- Angular: https://angular.io/docs
+
+Links de Interes:
+- https://fonts.google.com
+- https://color.adobe.com
+- http://www.htmlcolorcodes.com
+- https://material.io/
+- https://regexr.com
