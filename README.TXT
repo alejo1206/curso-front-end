@@ -17,3 +17,8 @@ Clase 4
 leer: 
     http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/
     https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
+
+Clase 5:
+bajar node.js y typescript
+npm install bootstrap@4.0.0-beta --save
+Leer typescript (links de John Papa), "QuickStart" de Angular, Seguir con ejercicios de JavaScript

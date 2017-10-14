@@ -2,8 +2,16 @@ Documentación:
 - HTML/CSS/JS: https://www.w3schools.com
 - BEM (CSS): https://en.bem.info/
 - SASS (CSS): http://sass-lang.com/
-- TypeScript: https://www.typescriptlang.org/docs
+- TypeScript:
+    - (Ver dentro de Handbook) - https://www.typescriptlang.org/docs
 - Angular: https://angular.io/docs
+
+Documentación Extra:
+- Class en ES6: https://googlechrome.github.io/samples/classes-es6/
+- Typescript by John Papa:
+    - https://johnpapa.net/typescriptpost1/
+    - https://johnpapa.net/typescriptpost2/
+    - https://johnpapa.net/typescriptpost3/
 
 Links de Interes:
 - https://fonts.google.com
