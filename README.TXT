@@ -22,3 +22,11 @@ Clase 5:
 bajar node.js y typescript
 npm install bootstrap@4.0.0-beta --save
 Leer typescript (links de John Papa), "QuickStart" de Angular, Seguir con ejercicios de JavaScript
+
+Clase 6:
+npm install -g node-sass
+node-sass archivo.scss archivo.css compila y convierte el archivo .scss en .css
+node-sass --watch archivo.scss archivo.css hace lo mismo que el anterior pero cada vez que hay un cambio lo compila automaticamente
+npm run comando ejecuta un script del package.json
+--noEmitOnError hace que cuando el compilador de ts de error no se genere el archivo js
+https://angular.io/guide/cheatsheet conceptos de angular
